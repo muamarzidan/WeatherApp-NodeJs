@@ -1,14 +1,7 @@
-// const { response } = require("express")
-
-// const { response } = require("express")
-
-// console.log('cliednt side')
-
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
 const messegeOne = document.querySelector('#messege-1')
 const messegeTwo = document.querySelector('#messege-2')
-
 
 weatherform.addEventListener('submit', (e) => {
     e.preventDefault()
