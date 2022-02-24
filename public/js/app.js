@@ -2,7 +2,7 @@
 
 // const { response } = require("express")
 
-// console.log('cliednt side')
+console.log('cliednt side')
 
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
